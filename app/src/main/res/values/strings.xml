@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizeApp</string>
+    <string name="quest_one">1. What is android?</string>
+    <string name="quest_two">2. What programming language is commonly used for Android app development?</string>
+    <string name="ans_one_a">A programming language</string>
+    <string name="ans_one_b">A mobile device manufacturer</string>
+    <string name="ans_one_c">An operating system for mobile devices</string>
+
+    <string name="ans_tow_a">Python</string>
+    <string name="ans_tow_b">Java</string>
+    <string name="ans_tow_c">Kotlin</string>
+
+</resources>
